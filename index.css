@@ -93,7 +93,14 @@ a.animated-button:link, a.animated-button:visited {
 	-moz-transition: all 1s ease;
 	-o-transition: all 1s ease;
 	transition: all 1s ease;
+	
+	-webkit-border-radius: 15px;
+-moz-border-radius: 15px;
+ border-radius: 15px 15px 15px 15px;
+
 }
+
+
 
 a.animated-button.thar-one {
 	color: #000000;
