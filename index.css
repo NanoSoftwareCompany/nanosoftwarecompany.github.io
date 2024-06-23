@@ -1,5 +1,5 @@
-/*2000px ve 992px arasında CSS kodları Çalışır. */
-@media only screen and (max-width: 2000px) and (min-width: 600px)  {
+/*1200px ve 992px arasında CSS kodları Çalışır. */
+@media only screen and (max-width: 1200px) and (min-width: 992px)  {
 
 body{
 
@@ -492,8 +492,8 @@ a.animated-button.thar-twelve:before {
 
 }
 
-/* 601px ve 100px arasında CSS kodları çalışır */
-@media only screen and (max-width: 601px) and (min-width: 100px)  {
+/* 992px ve 480px arasında CSS kodları çalışır */
+@media only screen and (max-width: 992px) and (min-width: 480px)  {
 
 	.section{
 
