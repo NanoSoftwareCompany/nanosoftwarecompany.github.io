@@ -7,6 +7,9 @@
 		}
   }
 
+/* 1200px genişikten küçük cihazlar için */
+@media only screen and (max-width: 1200px) {
+
 
 body{
 
@@ -495,4 +498,6 @@ a.animated-button.thar-twelve:before {
        	border: 5px solid rgb(0, 0, 0);
        	margin: 10px;
 		border-radius: 6px;
+}
+
 }
