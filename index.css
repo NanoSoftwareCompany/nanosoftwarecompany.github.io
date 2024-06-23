@@ -1,6 +1,3 @@
-/*1200px ve 992px arasında CSS kodları Çalışır. */
-@media only screen and (max-width: 1200px) and (min-width: 992px)  {
-
 body{
 
  background-color:#ffffff;
@@ -490,7 +487,6 @@ a.animated-button.thar-twelve:before {
 		border-radius: 6px;
 }
 
-}
 
 /* 992px ve 480px arasında CSS kodları çalışır */
 @media only screen and (max-width: 992px) and (min-width: 480px)  {
